@@ -1,0 +1,32 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Eclipse metadata & settings
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.loadpath
+.recommenders
+
+# Maven build artifacts
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# IntelliJ IDEA / VSCode
+.idea/
+*.iml
+.vscode/
